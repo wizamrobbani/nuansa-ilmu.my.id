@@ -11,9 +11,9 @@
 	>
 
 <channel>
-	<title>Nuansa Ilmu</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<title>Tips Archives &bull; Nuansa Ilmu</title>
+	<atom:link href="/category/tips/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/tips/</link>
 	<description></description>
 	<lastBuildDate>Wed, 03 May 2023 06:36:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -25,8 +25,8 @@
 
 <image>
 	<url>/wp-content/uploads/2023/04/cropped-cropped-logo-nuansa-ilmu-32x32.png</url>
-	<title>Nuansa Ilmu</title>
-	<link>/</link>
+	<title>Tips Archives &bull; Nuansa Ilmu</title>
+	<link>/category/tips/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
