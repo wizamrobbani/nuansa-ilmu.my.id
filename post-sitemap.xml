@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog.html</loc>
-		<lastmod>2023-05-03T06:36:33+00:00</lastmod>
+		<lastmod>2023-06-29T23:58:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/tips-belajar-efektif.html</loc>
@@ -19,6 +19,30 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/tips-belajar-sukses.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tips-memilih-les-privat.html</loc>
+		<lastmod>2023-06-29T23:00:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/memilih-lembaga-les-privat.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/cara-memilih-lembaga-les-privat-untuk-anak.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tips-mengoptimalkan-waktu-belajar-selama-les-privat.html</loc>
+		<lastmod>2023-06-29T23:34:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/tips-mengoptimalkan-waktu-belajar-selama-les-privat.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/membangun-jadwal-belajar-teratur.html</loc>
+		<lastmod>2023-06-29T23:58:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/pentingnya-membangun-jadwal-belajar-teratur.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
