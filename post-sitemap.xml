@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog.html</loc>
-		<lastmod>2023-06-29T23:58:06+00:00</lastmod>
+		<lastmod>2023-07-10T02:04:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/tips-belajar-efektif.html</loc>
@@ -43,6 +43,33 @@
 		<lastmod>2023-06-29T23:58:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/06/pentingnya-membangun-jadwal-belajar-teratur.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cara-belajar-untuk-introvert-dan-penyendiri.html</loc>
+		<lastmod>2023-07-06T13:36:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/Cara-Belajar-untuk-Introvert-dan-Penyendiri.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/learn-unlearn-relearn.html</loc>
+		<lastmod>2023-07-10T01:42:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/learn-unlearn-relearn.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/metode-learn-unlearn-relearn.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rekomendasi-film-pendidikan.html</loc>
+		<lastmod>2023-07-10T02:04:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/rekomendasi-film-pendidikan.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/good-will-hunting-1997.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
