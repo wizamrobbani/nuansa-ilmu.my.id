@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/04/cropped-cropped-logo-nuansa-ilmu-32x32.png</url>
@@ -446,7 +446,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="800" height="600" src="/wp-content/uploads/2023/07/good-will-hunting-1997.jpg" alt="Good Will Hunting 1997" class="wp-image-1630"/><figcaption class="wp-element-caption">kinopoisk.ru</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" fetchpriority="high" width="800" height="600" src="/wp-content/uploads/2023/07/good-will-hunting-1997.jpg" alt="Good Will Hunting 1997" class="wp-image-1630"/><figcaption class="wp-element-caption">kinopoisk.ru</figcaption></figure>
 
 
 
