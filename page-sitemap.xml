@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
-		<lastmod>2023-06-30T00:12:28+00:00</lastmod>
+		<loc>./index.html</loc>
+		<lastmod>2023-09-07T13:16:50+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/lembaga-les-privat-sidoarjo-terkemuka.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/04/lembaga-les-privat-sidoarjo-terkemuka.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/lembaga-nuansa-ilmu-sidoarjo-225x300.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/04/lembaga-nuansa-ilmu-sidoarjo-225x300.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/les-privat-sidoarjo.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/04/les-privat-sidoarjo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/pentingnya-membangun-jadwal-belajar-teratur-768x576.webp</image:loc>
+			<image:loc>./wp-content/uploads/2023/06/pentingnya-membangun-jadwal-belajar-teratur-768x576.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/tips-mengoptimalkan-waktu-belajar-selama-les-privat-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2023/06/tips-mengoptimalkan-waktu-belajar-selama-les-privat-768x576.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/memilih-lembaga-les-privat-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2023/06/memilih-lembaga-les-privat-768x576.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/tips-sukses-belajar-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2023/05/tips-sukses-belajar-768x576.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/belajar-efektif-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2023/04/belajar-efektif-768x576.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/user.html</loc>
+		<loc>./user.html</loc>
 		<lastmod>2023-06-30T00:16:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/login.html</loc>
+		<loc>./login.html</loc>
 		<lastmod>2023-06-30T00:16:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/register.html</loc>
+		<loc>./register.html</loc>
 		<lastmod>2023-06-30T00:16:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/members.html</loc>
+		<loc>./members.html</loc>
 		<lastmod>2023-06-30T00:16:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/logout.html</loc>
+		<loc>./logout.html</loc>
 		<lastmod>2023-06-30T00:16:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/account.html</loc>
+		<loc>./account.html</loc>
 		<lastmod>2023-06-30T00:16:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/password-reset.html</loc>
+		<loc>./password-reset.html</loc>
 		<lastmod>2023-06-30T00:16:21+00:00</lastmod>
 	</url>
 </urlset>

@@ -11,10 +11,10 @@
 <channel>
 	<title>
 	Comments for Nuansa Ilmu	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 05 Sep 2023 12:05:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Sep 2023 13:16:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
