@@ -13,7 +13,7 @@
 <channel>
 	<title>Umum Archives &bull; Nuansa Ilmu</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 14 Sep 2023 08:46:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,7 +26,7 @@
 <image>
 	<url>./../../../wp-content/uploads/2023/04/cropped-cropped-logo-nuansa-ilmu-32x32.png</url>
 	<title>Umum Archives &bull; Nuansa Ilmu</title>
-	<link>./../index.html</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
