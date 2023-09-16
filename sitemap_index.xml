@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://nuansailmu.my.id/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://nuansailmu.my.id/post-sitemap.xml</loc>
-		<lastmod>2023-09-15T03:44:03+00:00</lastmod>
+		<loc>./post-sitemap.xml</loc>
+		<lastmod>2023-09-16T12:12:25+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nuansailmu.my.id/page-sitemap.xml</loc>
+		<loc>./page-sitemap.xml</loc>
 		<lastmod>2023-09-14T02:43:18+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
