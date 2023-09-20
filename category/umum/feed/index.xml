@@ -11,7 +11,7 @@
 	>
 
 <channel>
-	<title>Umum Archives &bull; Nuansa Ilmu</title>
+	<title>Umum Archives &#8226; Nuansa Ilmu</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
@@ -25,7 +25,7 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2023/04/cropped-cropped-logo-nuansa-ilmu-32x32.png</url>
-	<title>Umum Archives &bull; Nuansa Ilmu</title>
+	<title>Umum Archives &#8226; Nuansa Ilmu</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
