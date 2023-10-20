@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./blog/index.html</loc>
-		<lastmod>2023-10-03T12:17:51+00:00</lastmod>
+		<lastmod>2023-10-20T10:00:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./tips-belajar-efektif.html</loc>
@@ -201,26 +201,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./les-privat-online-vs-les-privat-konvensional.html</loc>
-		<lastmod>2023-09-23T22:48:26+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/09/les-privat-offline-vs-les-privat-konvensional.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/09/les-privat-online-vs-les-privat-konvensional.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./peran-guru-les-privat-sidoarjo.html</loc>
-		<lastmod>2023-09-25T06:44:57+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/09/peran-guru-les-privat-sidoarjo-dalam-sukses-akademik.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/09/peran-guru-les-privat-sidoarjo.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./belajar-di-rumah.html</loc>
 		<lastmod>2023-09-26T10:20:10+00:00</lastmod>
 		<image:image>
@@ -252,6 +232,33 @@
 		<lastmod>2023-10-03T12:17:51+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/cara-mengatasi-sering-menunda-belajar.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./teknik-menghafal.html</loc>
+		<lastmod>2023-10-20T09:51:49+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/teknik-menghafal.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./les-privat-online-vs-les-privat-konvensional.html</loc>
+		<lastmod>2023-10-20T09:59:24+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/09/les-privat-offline-vs-les-privat-konvensional.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/09/les-privat-online-vs-les-privat-konvensional.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./peran-guru-les-privat-sidoarjo.html</loc>
+		<lastmod>2023-10-20T10:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/09/peran-guru-les-privat-sidoarjo-dalam-sukses-akademik.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/09/peran-guru-les-privat-sidoarjo.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
