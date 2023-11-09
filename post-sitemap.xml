@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./blog/index.html</loc>
-		<lastmod>2023-11-06T12:53:18+00:00</lastmod>
+		<lastmod>2023-11-09T10:39:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./tips-belajar-efektif.html</loc>
@@ -332,6 +332,13 @@
 		<lastmod>2023-11-06T12:53:18+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/11/cara-mengatasi-stress-belajar.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./hilangkan-sifat-malas-belajar.html</loc>
+		<lastmod>2023-11-09T10:39:28+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/11/tips-cara-hilangkan-sifat-malas-belajar.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
